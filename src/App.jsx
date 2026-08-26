@@ -378,7 +378,7 @@ function App() {
 
             <div className="hero-photo-frame">
               <img
-                src="/Profile photo.png"
+                src="/Profile photo.jpeg"
                 alt="Kunal Prajapati"
               />
 
