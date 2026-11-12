@@ -341,7 +341,7 @@ function App() {
 
               <a
                 className="button button-ghost"
-                href="/resume.pdf"
+                href="/Kunal-Resume.pdf"
                 target="_blank"
                 rel="noreferrer"
               >
